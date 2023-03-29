@@ -5,7 +5,7 @@ import conta.repository.ContaRepository;
 import java.util.ArrayList;
 
 public class ContaController implements ContaRepository {
-		
+		// criando o "banco de dados":
 	private ArrayList<Conta> listaContas = new ArrayList<Conta>();
 	int numero = 0;
 	
