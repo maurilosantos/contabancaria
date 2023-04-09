@@ -1,7 +1,11 @@
-# app de conta bancária
-Design about bank account.
+# Banco do Brazil com Z
 
 
+![construindo](https://img.shields.io/badge/status-desenvolvido-blue)
 
-![construindo](https://img.shields.io/badge/status-desenvolvendo-orange)
+#### Descrição
+
+Projeto que simula transações bancárias com dois tipos de contas: Corrente e poupança, utilizando a linguagem Java.
+
+![](https://github.com/maurilosantos/contabancaria/blob/main/assets/Contabancaria.png?raw=true)
 
